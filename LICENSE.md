@@ -1,4 +1,4 @@
-# 
+# dydx trading bot ultimate Strategy | slippage-control & sandwich-attack-protection offers the most advanced dydx trading bot, with slippage-control and sandwich-attack-protection.
 
 
 
